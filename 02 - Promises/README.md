@@ -2,7 +2,7 @@
 
 ## Promessa de que algo irá acontecer  
 
-### Promise é um objeto JS coma promessa de que algo será realizado. É usado para operações assíncronas (carregar um arquivo, leitura de dados de uma API)  
+### Promise é um objeto JS com a promessa de que algo será realizado. É usado para operações assíncronas (carregar um arquivo, leitura de dados de uma API)  
   
 4 estágios da promessa
 
