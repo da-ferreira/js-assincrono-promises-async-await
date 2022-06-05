@@ -1,6 +1,6 @@
 /**
  * Axios é um cliente HTTP simples baseado em promessas para o navegador e para o node.js.
- * Tipo o Fetch API.
+ * Ela usa por debaixo dos panos o Fetch API.
  */
 
 // import axios from 'axios';
